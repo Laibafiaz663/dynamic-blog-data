@@ -4,7 +4,7 @@ import Navbar from "./components/Navbar";
 import { useState } from "react";
 import { navitems } from "./data/data";
 import { cardarraydata } from "./data/data";
-import Blogs from "./components/blogs";
+import Blogs from "./components/Blogs";
 import { blogsdata } from "./data/blogs";
 
 function App() {
